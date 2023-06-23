@@ -1,0 +1,52 @@
+@charset "utf-8";
+.container-fluid {
+	background-color: #FDF061;
+	background-image: -webkit-linear-gradient(270deg,rgba(253,240,97,1.00) 0%,rgba(253,240,97,1.00) 83.94%,rgba(0,0,0,1.00) 93.78%);
+	background-image: -moz-linear-gradient(270deg,rgba(253,240,97,1.00) 0%,rgba(253,240,97,1.00) 83.94%,rgba(0,0,0,1.00) 93.78%);
+	background-image: -o-linear-gradient(270deg,rgba(253,240,97,1.00) 0%,rgba(253,240,97,1.00) 83.94%,rgba(0,0,0,1.00) 93.78%);
+	background-image: linear-gradient(180deg,rgba(253,240,97,1.00) 0%,rgba(253,240,97,1.00) 83.94%,rgba(0,0,0,1.00) 93.78%);
+}
+.navbar-nav.mr-auto .nav-item .nav-link {
+	color: #000000;
+}
+.card.col-md-4.col-xl-12 .card-body .btn.btn-primary {
+	background-color: #000000;
+	color: #FDF061;
+}
+#accordion1 .card #headingOne1 {
+	background-color: #000000;
+}
+#accordion1 .card #headingTwo1 {
+	background-color: #000000;
+}
+#accordion1 .card #headingThree1 {
+	background-color: #000000;
+}
+#headingOne1 .mb-0 a {
+	color: #FDF061;
+}
+#headingTwo1 .mb-0 .collapsed {
+	color: #FDF061;
+}
+#headingThree1 .mb-0 .collapsed {
+	color: #FDF061;
+}
+.container-fluid .container footer {
+	color: #FFFFFF;
+}
+
+
+
+
+
+
+
+
+
+.container-fluid .container .navbar.navbar-expand-lg.navbar-light.bg-light {
+	color: #FFFFFF;
+	background-image: -webkit-linear-gradient(270deg,rgba(255,234,14,1.00) 0%,rgba(255,229,0,1.00) 47.36%,rgba(253,240,97,1.00) 100%);
+	background-image: -moz-linear-gradient(270deg,rgba(255,234,14,1.00) 0%,rgba(255,229,0,1.00) 47.36%,rgba(253,240,97,1.00) 100%);
+	background-image: -o-linear-gradient(270deg,rgba(255,234,14,1.00) 0%,rgba(255,229,0,1.00) 47.36%,rgba(253,240,97,1.00) 100%);
+	background-image: linear-gradient(180deg,rgba(255,234,14,1.00) 0%,rgba(255,229,0,1.00) 47.36%,rgba(253,240,97,1.00) 100%);
+}
